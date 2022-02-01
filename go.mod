@@ -1,4 +1,4 @@
-module github.com/ac3lives/gophish
+module github.com/todonnal-r7/gophish
 
 go 1.13
 
